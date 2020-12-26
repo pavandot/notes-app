@@ -40,4 +40,3 @@ window.addEventListener('storage', (e) => {
         renderNotes(notes, filters)
     }
 })
-console.log("hello world")
