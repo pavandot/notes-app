@@ -18,3 +18,6 @@ Notes app is simple web application created using HTML CSS and pure JavaScript
 <p align="center">
   <img src="./images/search.png" alt="Searching image" width="420">
 </p>
+
+# Live Presentation
+[Project Demo](https://pavan-notes-app.netlify.app/)
