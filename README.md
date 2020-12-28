@@ -20,4 +20,4 @@ Notes app is simple web application created using HTML CSS and pure JavaScript
 </p>
 
 # Live Presentation
-[Project Demo](#)
+[Project Demo](https://pavan-notes-app.netlify.app/)
