@@ -6,7 +6,7 @@ Notes app is simple web application created using HTML CSS and pure JavaScript
 
 * Last Edit Time
 <p align="center">
-  <img src="./images/lastEdited.png" alt="Last edited image" width="420" >
+  <img src="./images/lastEdited.png" alt="Last edited image" width="420" > 
 </p>
 
 * Sorting Mechanism
